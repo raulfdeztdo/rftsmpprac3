@@ -66,4 +66,4 @@ constructorMensajeConfirmacion(idL, idB, l)
     lote -> l
 ```
 
-Una vez definidos los elementos comunes tendremos que darle soporte a nuestro proceso para el [almacén médico](http://suleiman.ujaen.es:8011/rftsmp/rftsmpprac3/-/blob/master/AlmacenMedico.md) y para nuestro [centro médico](http://suleiman.ujaen.es:8011/rftsmp/rftsmpprac3/-/blob/master/CentroMedico.md)
+Una vez definidos los elementos comunes tendremos que darle soporte a nuestro proceso para el [almacén médico](https://github.com/raulfdeztdo/rftsmpprac3/blob/main/AlmacenMedico.md) y para nuestro [centro médico](https://github.com/raulfdeztdo/rftsmpprac3/blob/main/CentroMedico.md)
